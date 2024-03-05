@@ -1,0 +1,1 @@
+This is my data analysis portfolio.  To see an example of my skills in analysis with SQL queries, please see the pizza sales project.  To see an example of a Tableau dashboard that I can created, please see the Supersales data project.
